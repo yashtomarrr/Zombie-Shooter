@@ -29,7 +29,7 @@ elcome to the Zombie Shooter Game, a thrilling Unity-based game developed for PC
 In the Zombie Shooter Game, your objective is to defeat the incoming zombies by shooting them. Zombie requires five shots to be eliminated. Show off your shooting skills and enjoy the immersive graphics and smooth player actions.
 
 
-![App Screenshot](file:///C:/Users/asus/OneDrive/Pictures/Screenshots%201/Screenshot%20(82).png)
+![App Screenshot](https://github.com/yashtomarrr/Zombie-Shooter/blob/7d8483a9b316104ccf910cd793ecc1a16b764179/Screenshot%20(84).png)
 
 ## Features
 
