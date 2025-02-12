@@ -6,7 +6,7 @@ A brief description of what this project does and who it's for
 elcome to the Zombie Shooter Game, a thrilling Unity-based game developed for PC, Mac, and Linux platforms. In this action-packed game, you can experience the excitement of shooting zombies with your gun. Each zombie requires five shots to be defeated, providing a satisfying challenge for players. This project showcases my skills in Unity game development, including player actions, graphics, and C# programming.
 ## Screenshots
 
-![App Screenshot](file:///C:/Users/asus/OneDrive/Pictures/Screenshots%201/Screenshot%20(82).png)
+![App Screenshot](https://github.com/yashtomarrr/Zombie-Shooter/blob/2f01dbf752ee2102088936464f846b18c02e5bb8/Screenshot%20(82).png)
 
 
 ## Table of Contents
